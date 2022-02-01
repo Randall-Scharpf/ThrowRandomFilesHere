@@ -1,0 +1,13 @@
+This project uses the GNU GPL v3 (https://www.gnu.org/licenses/gpl-3.0.html).
+
+
+Notes:
+
+If you look at the same location as the link that goes to this text file in the original Wordle, it says "Copyright 2021-2022. All Rights Reserved."
+However, there's a comment in the source code that says "Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted."
+Since the code comment is accompanied by a complete license, while the text in the visible portion is just the words you see, I presume the code comment to be more relevant and to supercede the visible text.
+I've put this mirror under what's basically the same license, so you can also use and reuse it.
+
+There's a StackOverflow citation in the code (good on you, developer), so technically, the license of the wordle game has to be CC BY-SA v3, CC BY-SA v4, or GNU GPL v3. It is not; it is under Microsoft open source license.
+But because a single CSS attribute is all that is used from the StackOverflow citation, "fair use" applies, and the citation itself is unnecessary, and actually, the original Wordle is in the clear. Cool.
+Both the StackOverflow license (not actually relevant) and the permissive Microsoft license (definitely relevant) allow me to put this under the GNU GPL v3 as I have done.

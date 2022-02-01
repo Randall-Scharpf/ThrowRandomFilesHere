@@ -1,0 +1,13 @@
+The first time you open the mirror...
+1. Go to the original Wordle
+2. Open console
+3. Type ```
+JSON.stringify(localStorage)```
+4. Copy the output
+5. Open the console in the mirror
+6. Type```
+var dat = JSON.parse(...PASTE HERE...);
+for (var v in dat) {
+  localStorage[v] = dat[v];
+}```
+7. Close consoles and reload to check that the copy worked
